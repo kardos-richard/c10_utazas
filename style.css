@@ -7,12 +7,9 @@ header {
 }
 
 header h1 {
-  padding-top: 40px;
-  font-size: 4vw;
-  letter-spacing: 25px;
-  text-shadow: 5px 0 5px #000;
-  -moz-text-shadow: 5px 0 5px #000;
-  -webkit-text-shadow: 5px 0 5px #000;
+  color: white;
+  text-align: center;
+  text-teansfrom: uppercase;
 }
 
 .nav-link {
